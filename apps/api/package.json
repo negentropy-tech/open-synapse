@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "tsx watch src/main.ts"
+  },
+  "dependencies": {
+    "@elysia/node": "^1.4.6",
+    "elysia": "^1.4.30"
+  }
+}

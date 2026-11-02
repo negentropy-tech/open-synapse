@@ -1,0 +1,8 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+
+lockfileIncludeTarballUrl: false
+
+allowBuilds:
+  esbuild: true

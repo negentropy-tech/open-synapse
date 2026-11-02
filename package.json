@@ -4,9 +4,14 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "packageManager": "pnpm>=12"
-  }, 
-   "engines": {
+  },
+  "engines": {
     "node": ">=24",
     "pnpm": ">=12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
   }
 }
