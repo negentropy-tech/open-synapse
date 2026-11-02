@@ -1,0 +1,12 @@
+{
+  "name": "open-synapse",
+  "private": true,
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "packageManager": "pnpm>=12"
+  }, 
+   "engines": {
+    "node": ">=24",
+    "pnpm": ">=12"
+  }
+}
