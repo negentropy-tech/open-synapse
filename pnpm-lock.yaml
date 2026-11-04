@@ -36,7 +36,7 @@ importers:
         specifier: ^1.4.30
         version: 1.4.30(@sinclair/typebox@0.34.52)(exact-mirror@1.2.6)(file-type@22.2.0)(openapi-types@12.1.3)(typescript@7.0.2)
 
-  apps/web:
+  apps/spa:
     dependencies:
       '@types/react-dom':
         specifier: ^19.3.0
